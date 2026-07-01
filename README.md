@@ -1,12 +1,24 @@
-<p align="center">
-  <img src="banner.png" alt="Amor | Software Developer Banner" width="100%">
-</p>
-
-<h1 align="center">Hi there! 👋 I'm Amor</h1>
+# Hi there! 👋 I'm Amor
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Python+%7C+Django+%7C+React;Industrial+IoT+Enthusiast;Building+Real-World+Projects+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer;Python+%7C+Django+%7C+React;Industrial+IoT+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies;Future+Software+Engineer+🇩🇪" />
 </p>
+
+<p align="center">
+  <em>
+    Building practical software through Full-Stack Development, Industrial IoT, and thoughtful user experiences.
+  </em>
+</p>
+
+<p align="center">
+  🇰🇪 Kenya • 💻 Software Developer • 🇩🇪 Future Software Engineer
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amorsaralynn08-arch&style=for-the-badge" />
+</p>
+
+---
 
 <p align="center">
   <em>
@@ -15,9 +27,6 @@
   </em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amorsaralynn08-arch&style=for-the-badge" />
-</p>
 
 ---
 
