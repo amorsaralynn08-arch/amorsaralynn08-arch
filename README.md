@@ -137,7 +137,7 @@ An environmental monitoring project focused on sustainability, plant health, and
 
 * 💼 **LinkedIn:** Coming Soon
 * 🌐 **Portfolio:** Coming Soon
-* 📧 **Email:** amorsaralynn08@gmail.com **
+* 📧 **Email:** amorsaralynn08@gmail.com 
 
 ---
 
