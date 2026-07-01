@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Amor
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer;Python+%7C+Django+%7C+React;Industrial+IoT+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies;Future+Software+Engineer+🇩🇪" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Python+%7C+Django+%7C+React;Industrial+IoT+Enthusiast;Building+Real-World+Projects" alt="Typing SVG">
 </p>
 
 <p align="center">
