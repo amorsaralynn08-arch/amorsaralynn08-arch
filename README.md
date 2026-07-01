@@ -15,30 +15,18 @@
 
 ## 👩‍💻 About Me
 
-```python
-class Amor:
 
-    location = "Kenya 🇰🇪"
 
-    role = "Software Developer"
+I'm a software developer who enjoys building applications that are both functional and intuitive.
 
-    interests = [
-        "Full-Stack Development",
-        "Industrial IoT",
-        "Software Architecture",
-        "UI/UX Design"
-    ]
+- 🌍 Based in Kenya
+- 🐍 Python & Django enthusiast
+- ⚛️ Building modern interfaces with React
+- 🤖 Exploring Industrial IoT and embedded systems
+- 🎨 Passionate about creating clean, user-friendly experiences
+- 📖 Always learning and improving through real-world projects
+- 🇩🇪 Preparing for a Software Development Ausbildung in Germany
 
-    currently_learning = [
-        "Advanced Django",
-        "React",
-        "REST APIs",
-        "PostgreSQL",
-        "Docker"
-    ]
-
-    fun_fact = "I enjoy transforming ideas into real software."
-```
 
 ---
 
@@ -126,7 +114,7 @@ A sustainability-focused software project exploring environmental monitoring and
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=https://github.com/amorsaralynn08-arch&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -136,7 +124,7 @@ A sustainability-focused software project exploring environmental monitoring and
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/amorsaralynn08-arch&theme=github-compact"/>
 
 </p>
 
